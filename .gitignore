@@ -1,0 +1,8 @@
+benches_result/
+target/
+**/*.h
+!foreign/_include/numbers.h
+**/*.hi
+**/*.o
+**/*.so
+**/*.wasm
